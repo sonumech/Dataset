@@ -2,7 +2,7 @@
 
 ## 📜 Overview
 
-This dataset consists of images and corresponding labels collected using a DJI Mini UAV. It includes images extracted from 15 videos captured at altitudes of 10 and 14 meters, with every 30th frame being selected. This dataset is a blend of publicly available Manipal data and data collected during our research, aimed at enhancing the understanding of aerial imagery analysis.
+This dataset consists of images and corresponding labels collected using a DJI Mini UAV. It includes images extracted from 15 videos captured at altitudes of 10 and 14 meters, with every 30th frame being selected. This dataset is a blend of publicly available Manipal data and data collected during our research, aimed at enhancing the understanding of aerial imagery analysis. The entire dataset is divided into **five parts** for easier download, each in zip format.
 
 ## 📂 Dataset Structure
 
