@@ -8,14 +8,14 @@ This dataset consists of images and corresponding labels collected using a DJI M
 
 The dataset is organized into the following directories:
 
-- 📁 `DJI_0965` to `DJI_0971`: Each folder contains images captured from different segments of the videos.
+- 📁 `DJI_0965` to `DJI_0971`: Each folder contains extracted frames from different segments of the videos.
 - 📁 `images`: Contains all extracted images.
 - 📁 `images_labels`: Includes image-label pairs for training and evaluation.
 - 📁 `labels`: Contains the annotation files for the images.
 
 ## 🛠️ Usage
 
-This dataset is intended for research purposes, particularly in the field of image processing and machine learning. Researchers can utilize the images and labels for tasks such as object detection, classification, and segmentation.
+This dataset is intended for research purposes, particularly in the field of image processing and deep learning. Researchers can utilize the images and labels for tasks such as object detection, classification, and segmentation.
 
 ## 📥 How to Access
 
