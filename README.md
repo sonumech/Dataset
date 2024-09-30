@@ -1,4 +1,4 @@
-# 🚁 DJI Mini UAV Image Dataset
+# 🛩️📷 DJI Mini UAV Image Dataset
 
 ## 📜 Overview
 
