@@ -2,7 +2,7 @@
 
 ## 📜 Overview
 
-This dataset consists of images and corresponding labels collected using a DJI Mini UAV. The dataset includes **Images: 1019** and **Videos: 6**, aimed at enhancing the understanding of aerial imagery analysis. The entire dataset is divided into **five parts** for easier download, each in zip format.
+This dataset consists of images and corresponding labels collected using a DJI Mini UAV. The dataset includes **Images: 1019** and **Videos: 6**, aimed at enhancing the understanding of aerial imagery analysis. The entire dataset is divided into **five parts** for easier download, each in zip format. Original videos can be shared upon request.
 
 ## 📂 Dataset Structure
 
@@ -23,4 +23,4 @@ To access the dataset, you can download the zipped files from the repository. Un
 
 ## ℹ️ Additional Information
 
-The images were captured at specific intervals to ensure a diverse representation of the captured environment. This dataset is designed to support research in aerial imagery, enabling advancements in algorithms for image analysis.
+The images were captured at specific intervals to ensure a diverse representation of the captured environment. This dataset is designed to support research in aerial imagery, enabling advancements in algorithms for image analysis. Original videos can be shared upon request.
