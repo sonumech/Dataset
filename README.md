@@ -1,8 +1,8 @@
-# 🛩️📷 DJI Mini UAV Image Dataset
+# 🛩️📷 UAV Pedestrian Dataset
 
 ## 📜 Overview
 
-This dataset consists of images and corresponding labels collected using a DJI Mini UAV. It includes images extracted from 15 videos captured at altitudes of 10 and 14 meters, with every 30th frame being selected. This dataset is a blend of publicly available Manipal data and data collected during our research, aimed at enhancing the understanding of aerial imagery analysis. The entire dataset is divided into **five parts** for easier download, each in zip format.
+This dataset consists of images and corresponding labels collected using a DJI Mini UAV. The dataset includes **Images: 1019** and **Videos: 6**, aimed at enhancing the understanding of aerial imagery analysis. The entire dataset is divided into **five parts** for easier download, each in zip format.
 
 ## 📂 Dataset Structure
 
@@ -23,4 +23,4 @@ To access the dataset, you can download the zipped files from the repository. Un
 
 ## ℹ️ Additional Information
 
-The images were captured at specific intervals (every 30th frame) to ensure a diverse representation of the captured environment. This dataset is designed to support research in aerial imagery, enabling advancements in algorithms for image analysis.
+The images were captured at specific intervals to ensure a diverse representation of the captured environment. This dataset is designed to support research in aerial imagery, enabling advancements in algorithms for image analysis.
